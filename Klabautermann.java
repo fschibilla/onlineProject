@@ -9,5 +9,4 @@ public class Klabautermann {
 		System.out.println("Klabauterkind");
 		System.out.println("im Schiffe sind.");
 	}
-
 }
